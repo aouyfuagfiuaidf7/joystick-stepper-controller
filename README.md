@@ -1,7 +1,6 @@
 # 🎮 Joystick Stepper Motor Controller
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Project Views](https://img.shields.io/badge/Views-3K%2B-orange?style=for-the-badge)
 
 *A fun and interactive Arduino project that brings motor control to your fingertips!*
@@ -170,5 +169,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *It helps others discover it and motivates me to create more cool stuff!*
 
 [⭐ Star This Repository](https://github.com/VickyAshford/joystick-stepper-controller)
-
-```
